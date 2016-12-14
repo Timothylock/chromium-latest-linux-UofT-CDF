@@ -1,4 +1,4 @@
-# chromium-latest-linux
+# Chromium Latest Linux For CDF (UofT)
 Scripts to download and run the latest Linux build of Chromium.
 
 It has been modified to work after CDF disabled some features that prevent Chromium from running in sanbox mode. 
